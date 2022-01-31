@@ -114,8 +114,7 @@ std::string GetMac() {
    }
     string out = getline(myfile, line);
     myfile.close();
-
-    return out;
+    return out1;
 }
 */
 #include <iostream>
