@@ -1,1 +1,1 @@
-dodanie pliku z branchy bug fix
+dodanie branchy od konkretnego commita
