@@ -1,0 +1,1 @@
+dodalem se plik na branchy ktora idzie z konkretnego commita przed zmiana mac test pliku
