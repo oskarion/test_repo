@@ -148,3 +148,4 @@ int main()
 }
 
 // change from from_pyk_commit branch
+// zmieniam sobie cos na mojej dodatkowej branchy, sprawdzam czy dziala i merguje do maina
