@@ -1,1 +1,6 @@
 nft file created
+<<<<<<< HEAD
+=======
+add commit2
+add commit3
+>>>>>>> 6f6ede9... add commit3
