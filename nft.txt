@@ -1,3 +1,4 @@
 nft file created
 add commit2
 add commit3
+add test_investigate_release
